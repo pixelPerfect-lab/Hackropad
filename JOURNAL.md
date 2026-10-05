@@ -45,3 +45,4 @@ I am probably not going to get the parts from DigiKey, as they charge a huge amo
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/uLIqMAXowmqNgcuNMGbmqRDncVwyXbTk/a87dbbafc81159137f27bad7f567522412909fc58e189895158cc2017891a3e3.png)
 ^^only a few tabs for components, and I closed a lot
+Also the time lapses are not working for some reason...
