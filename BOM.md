@@ -17,7 +17,7 @@
 | [ABM8 12MHz Crystal Ocilator](https://www.digikey.com.au/en/products/detail/abracon-llc/ABM8-12.000MHZ-B2-T/2001193?gclsrc=aw.ds&gad_source=1&gad_campaignid=22639496806&gbraid=0AAAAADrbLlgd4aoWsGHkExqrT-Uj5CQKw&gclid=Cj0KCQjw8ofWBhCHARIsANBj4LuZy7d5JadF6nmF-cLC1-hGjdhhZfmwKGQI5s9c3tpQy2r-Qh4v_ukaArozEALw_wcB) | Main Clock | 1 | $1.03 | $1.03 | [DigiKey Electronics](https://www.digikey.com.au/en/products/detail/abracon-llc/ABM8-12.000MHZ-B2-T/2001193?gclsrc=aw.ds&gad_source=1&gad_campaignid=22639496806&gbraid=0AAAAADrbLlgd4aoWsGHkExqrT-Uj5CQKw&gclid=Cj0KCQjw8ofWBhCHARIsANBj4LuZy7d5JadF6nmF-cLC1-hGjdhhZfmwKGQI5s9c3tpQy2r-Qh4v_ukaArozEALw_wcB) |
 | [MicroUSB](https://www.digikey.com.au/en/products/detail/amphenol-cs-fci/10103594-0001LF/2350351) | Connecting to the Chip | 1 | $1.18 | $1.18 | [DigiKey](https://www.digikey.com.au/en/products/detail/amphenol-cs-fci/10103594-0001LF/2350351) |
 | **Parts subtotal** | — | — | — | **$15.91** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$15.91** | — |
+| **Tax & shipping** | — | — | — | **$24.00** | — |
+| **Total** | — | — | — | **$39.91** | — |
 
-$14.09 left of the tier's funding.
+**$9.91 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
