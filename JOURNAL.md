@@ -41,8 +41,8 @@ https://www.digikey.com.au/short/7r1d533t
 I am probably not going to get the parts from DigiKey, as they charge a huge amount for shipping ($24 AUD) and without the rotary encoder or cherry keys, my total is $10.85 which is pretty nice.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/uLIqMAXowmqNgcuNMGbmqRDncVwyXbTk/b2b90b6e24b1677f96c8c1021413b4f7c03e6a4ba1b67c4e7f170672c0bcd485.png)
-^^It takes soooo long to find the right components 😔
+^^It takes soooo long to find the right components 😔 and I can't even count the time :( :(
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/uLIqMAXowmqNgcuNMGbmqRDncVwyXbTk/a87dbbafc81159137f27bad7f567522412909fc58e189895158cc2017891a3e3.png)
 ^^only a few tabs for components, and I closed a lot
-Also the time lapses are not working for some reason...
+Also the time lapses are not working for some reason, but I did some tutorials for KiCad.
