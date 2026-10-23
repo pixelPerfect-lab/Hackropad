@@ -19,6 +19,6 @@ Total |	—	| —	| —	| $17.27 |	—
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b437be59-8787-4d15-87cc-ebfb772fa431" />
 <img width="1473" height="811" alt="image" src="https://github.com/user-attachments/assets/b93825a4-bbee-479d-84e8-b28e42a89f1f" />
 <img width="1341" height="1160" alt="image" src="https://github.com/user-attachments/assets/f92282d5-07aa-41d3-9841-903078d0f2cc" />
-
+https://cad.onshape.com/documents/e98056e3a4491591a6f8bf1e/w/48743fa81ab57436ecb89123/e/8a25d650e3180fe18e477bea
 
 Half-Life is a 10 week long hardware adventure, where teens aged 13-18 can learn about how to create and ship various projects, with rewards along side it, up to 100 dollars of project funding, and a 3D printer as a final reward.
