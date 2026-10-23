@@ -5,7 +5,7 @@ Part	| What it's for	| Qty	| Unit	| Total |	Vendor
 RP2040 | MCU | 1 | $0.76 | $0.76 | DigiKey
 4Mb flash memory | Flash memory for raspberry pi | 1	| $1.34	| $1.34 |	DigiKey
 3.3V voltage regulator | Micro USB type b power |	1	| $0.62	| $0.62 |	DigiKey
-Micro-USB connector	| Connection to PC and power |	1	$0.81 |	$0.81 |	DigiKey
+Micro-USB connector	| Connection to PC and power |	1	| $0.81 |	$0.81 |	DigiKey
 Rotary encoder with push button |	Rotary Encoder input | 1 |	$2.69 |	$2.69 |	DigiKey
 Cherry MX2A Brown keyboard switch |	Button inputs |	3 |	$1.75 |	$5.25 |	DigiKey
 Momentary reset switch |	Resetting the Raspberry Pi |	1 |	$0.35 |	$0.35 |	DigiKey
